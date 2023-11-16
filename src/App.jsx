@@ -1,15 +1,15 @@
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './Components/Header'
 import Footer from './Components/Footer';
 import Hero from './Components/Hero';
+import { Navbar } from 'react-bootstrap';
 
 
 function App() {
 
   return (
     <>
-      <Header/>
+      <Navbar/>
       <Hero/>
       <Footer/>
     </>
