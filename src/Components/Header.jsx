@@ -31,9 +31,6 @@ const Navbar = () => {
                     <li className='nav-item'>
                         <a href='#testimonials' onClick={closeMenu}>Testimonials</a>
                     </li>
-                    <li className='nav-item'>
-                        <a href='#demo' onClick={closeMenu}>Demo</a>
-                    </li>
                 </ul>
             </nav>
         </div>
