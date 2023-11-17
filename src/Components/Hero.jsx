@@ -1,8 +1,8 @@
-import React from 'react'
+
 
 function Hero() {
     return (
-        <div className="container col-xxl-8 px-4 py-5">
+        <div className="container col-xxxl-8 px-4 py-5 my-5">
             <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
                 <div className="col-10 col-sm-8 col-lg-6">
                     <img src="https://images.unsplash.com/photo-1530435460869-d13625c69bbf?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=MnwzNzg0fDB8MXxzZWFyY2h8MTB8fHdlYnNpdGV8ZW58MHwwfHx8MTYyMTQ0NjkyNg&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080&amp;h=768" className="d-block mx-lg-auto img-fluid" alt="" loading="lazy"/>

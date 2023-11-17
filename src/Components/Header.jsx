@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
-import logo from "..assets/sunway_logo_white"
-import './Navbar.css'
+import logo from "../assets/sunway_logo_white.png"
+import './Header.css'
 
 const Navbar = () => {
 
